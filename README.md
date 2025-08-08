@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-<img src="https://imgur.com/gallery/webb-observes-hubble-ultra-deep-field-BidXYsy" width="100%" alt="Dark Full-Stack Developer Banner"/>
+![gradient-dark-blue-futuristic-digital-grid-background](https://github.com/user-attachments/assets/d5e050e3-d0e2-45f9-9949-3db4a0618bad)
 
 
 <h1 align="center">⚡ OInfinity</h1>
