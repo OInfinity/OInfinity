@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-<img src="![gradient-dark-blue-futuristic-digital-grid-background](https://github.com/user-attachments/assets/1dd70453-0f22-4e88-abda-dc3c29d1f4e9)" width="100%" alt="Dark Full-Stack Developer Banner"/>
+<img src="![gradient-dark-blue-futuristic-digital-grid-background](https://github.com/user-attachments/assets/2cdec044-e6f6-43de-9c23-34fcc8fdd31b)" width="100%" alt="Dark Full-Stack Developer Banner"/>
 
 
 <h1 align="center">⚡ OInfinity</h1>
