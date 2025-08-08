@@ -1,6 +1,5 @@
 <!-- Profile Banner -->
-<img src="https://i.imgur.com/xxxxxxxx.png" width="100%" alt="Dark Full-Stack Developer Banner"/>
-<img width="720" height="949" alt="O" src="https://github.com/user-attachments/assets/b12590ef-0aec-43a0-8827-7597c682b2f4" />
+<img src="https://github.com/user-attachments/assets/b12590ef-0aec-43a0-8827-7597c682b2f4" width="100%" alt="Dark Full-Stack Developer Banner"/>
 
 
 <h1 align="center">⚡ OInfinity</h1>
