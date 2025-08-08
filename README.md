@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-![gradient-dark-blue-futuristic-digital-grid-background](https://github.com/user-attachments/assets/d5e050e3-d0e2-45f9-9949-3db4a0618bad)
+![8957993](https://github.com/user-attachments/assets/260bb980-31a4-4dcc-8b18-08caa8a1ba87)
 
 
 <h1 align="center">⚡ OInfinity</h1>
