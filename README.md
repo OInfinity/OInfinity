@@ -1,5 +1,6 @@
 <!-- Profile Banner -->
-![8957993](https://github.com/user-attachments/assets/260bb980-31a4-4dcc-8b18-08caa8a1ba87)
+![8469936](https://github.com/user-attachments/assets/e05a0c5a-4de4-4c65-bc34-41722ac46577)
+
 
 
 <h1 align="center">⚡ OInfinity</h1>
