@@ -8,7 +8,7 @@
 ---
 
 ## 💡 About Me
-I'm always the best!
+Always give the best of yourself!
 <!-- 🔹Passionate about **end-to-end software development** — from backend APIs to polished frontends.  
 🔹 Skilled in **modern frameworks**, **cloud deployments**, and **DevOps workflows**.  
 🔹 Building production-ready apps with **security and performance** in mind.
