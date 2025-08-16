@@ -1,19 +1,16 @@
 <!-- Profile Banner -->
 ![gradient-dark-blue-futuristic-digital-grid-background](https://github.com/user-attachments/assets/115d9efb-fbb4-4ec0-81e2-755deac87501)
 
-
-<h1 align="center">⚡ OInfinity</h1>
-<h3 align="center">Full-Stack Developer | Building Scalable, Secure & High-Performance Apps</h3>
+<h1 align="center">OInfinity — Full-Stack & Security Engineer</h1>
+<h3 align="center">Building Secure, High-Performance & AI-Driven Systems</h3>
 
 ---
 
 ## 💡 About Me
-Always give the best of yourself! There is no limit!
-<!-- 🔹Passionate about **end-to-end software development** — from backend APIs to polished frontends.  
-🔹 Skilled in **modern frameworks**, **cloud deployments**, and **DevOps workflows**.  
-🔹 Building production-ready apps with **security and performance** in mind.
 
--->
+I design and build end-to-end systems with a strong focus on **security, scalability and performance**.  
+Driven by a deep interest in **network defense** and **intelligent infrastructures**, I use modern full-stack and DevOps technologies to deliver **production-grade applications** — from real-time AI models to distributed backend services.  
+I believe great engineering demands intensity, continuous improvement and a refusal to accept limits.
 
 ---
 
@@ -54,26 +51,21 @@ Always give the best of yourself! There is no limit!
 
 ---
 
-## 🚀 Featured Full-Stack Projects
+## 🚀 Featured Projects
 
-[![Project 1](https://img.shields.io/badge/ThreatVisionX-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/ThreatVisionX)  
-Real-time AI-powered **network threat detection**.
+[![ThreatVisionX](https://img.shields.io/badge/ThreatVisionX-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/<your-username>/ThreatVisionX)  
+Real-time **AI-powered network threat detection** platform.
 
-[![Project 2](https://img.shields.io/badge/Protocol.CodeVault-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/Protocol.CodeVault)  
-Comprehensive **learning vault** for networking and software engineering.
+[![Protocol.CodeVault](https://img.shields.io/badge/Protocol.CodeVault-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/<your-username>/Protocol.CodeVault)  
+Comprehensive **knowledge vault** for mastering network and software engineering.
 
-[![Project 3](https://img.shields.io/badge/FullStackApp-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/fullstackapp)  
-React + Node.js + PostgreSQL **task management platform**.
-
----
-
-## 📊 GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+[![FullStackApp](https://img.shields.io/badge/FullStackApp-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/<your-username>/fullstackapp)  
+**Task management platform** (React + Node.js + PostgreSQL) with a clean and scalable architecture.
 
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![Twitter](https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-username>)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://<your-portfolio-url>)  
+[![Twitter](https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/<your-username>)
+
