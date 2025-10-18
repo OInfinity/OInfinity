@@ -12,6 +12,9 @@ I design and build end-to-end systems with a strong focus on **security, scalabi
 Driven by a deep interest in **network defense** and **intelligent infrastructures**, I use modern full-stack and DevOps technologies to deliver **production-grade applications** — from real-time AI models to distributed backend services.  
 I believe great engineering demands intensity, continuous improvement and a refusal to accept limits.
 
+<img width="800" height="800" alt="Ikigajo" src="https://github.com/user-attachments/assets/e797e47d-ad0f-47ba-9d73-5eea408edfab" />
+
+
 ---
 
 ## 🛠 Tech Stack & Tools
