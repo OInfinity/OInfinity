@@ -6,6 +6,9 @@
 
 <img width="786" height="299" alt="image" src="https://github.com/user-attachments/assets/1db0f68e-d098-4f4c-9f98-3e0e91e481b1" />
 
+<img width="720" height="406" alt="image" src="https://github.com/user-attachments/assets/32947939-e909-436d-ba6e-8d56268a6f03" />
+
+
 ---
 
 ## 💡 About Me
