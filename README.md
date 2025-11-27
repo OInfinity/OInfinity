@@ -3,7 +3,6 @@
 
 <h1 align="center">OInfinity — Full-Stack & Security Engineer</h1>
 <h2 align="center">Typescript, Node, React Full-Stack Developper</h2>
-<h3 align="center">Building Secure, High-Performance & AI-Driven Systems</h3>
 
 <img width="786" height="299" alt="image" src="https://github.com/user-attachments/assets/1db0f68e-d098-4f4c-9f98-3e0e91e481b1" />
 
@@ -14,10 +13,8 @@ Great question—this trio of user + goals + environment is the foundation of co
 
 ---
 
-## 💡 About Me
+## 💡 Note
 
-I design and build end-to-end systems with a strong focus on **security, scalability and performance**.  
-Driven by a deep interest in **network defense** and **intelligent infrastructures**, I use modern full-stack and DevOps technologies to deliver **production-grade applications** — from real-time AI models to distributed backend services.  
 I believe great engineering demands intensity, continuous improvement and a refusal to accept limits.
 
 <img width="800" height="800" alt="Ikigajo" src="https://github.com/user-attachments/assets/e797e47d-ad0f-47ba-9d73-5eea408edfab" />
