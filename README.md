@@ -3,6 +3,7 @@
 
 <h1 align="center">OInfinity — Full-Stack Engineer</h1>
 <h2 align="center">Typescript, Node, React Full-Stack Developper</h2>
+<h2 align="center">UI/UX Designer</h2>
 
 <img width="786" height="299" alt="image" src="https://github.com/user-attachments/assets/1db0f68e-d098-4f4c-9f98-3e0e91e481b1" />
 
