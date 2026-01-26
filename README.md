@@ -59,20 +59,6 @@ I believe great engineering demands intensity, continuous improvement and a refu
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
-
-## 🚀 Featured Projects
-
-[![ThreatVisionX](https://img.shields.io/badge/ThreatVisionX-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/<your-username>/ThreatVisionX)  
-Real-time **AI-powered network threat detection** platform.
-
-[![Protocol.CodeVault](https://img.shields.io/badge/Protocol.CodeVault-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/<your-username>/Protocol.CodeVault)  
-Comprehensive **knowledge vault** for mastering network and software engineering.
-
-[![FullStackApp](https://img.shields.io/badge/FullStackApp-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/<your-username>/fullstackapp)  
-**Task management platform** (React + Node.js + PostgreSQL) with a clean and scalable architecture.
-
----
-
 ## 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)])  
