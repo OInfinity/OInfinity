@@ -1,17 +1,11 @@
 <!-- Profile Banner -->
 ![gradient-dark-blue-futuristic-digital-grid-background](https://github.com/user-attachments/assets/115d9efb-fbb4-4ec0-81e2-755deac87501)
 
-<h1 align="center">OInfinity — Full-Stack Engineer</h1>
-<h2 align="center">Typescript, Node, React Full-Stack Developper</h2>
-<h2 align="center">UI/UX Designer</h2>
+<h1 align="center">OInfinity Full-Stack Engineer</h1>
 
 <img width="786" height="299" alt="image" src="https://github.com/user-attachments/assets/1db0f68e-d098-4f4c-9f98-3e0e91e481b1" />
 
-Great question—this trio of user + goals + environment is the foundation of contextual UX research and human-centered design. It’s not just a diagram—it’s a strategic lens for understanding how real people interact with systems.
-
-<img width="720" height="406" alt="image" src="https://github.com/user-attachments/assets/32947939-e909-436d-ba6e-8d56268a6f03" />
-
-
+This trio of user + goals + environment is the foundation of contextual UX research and human-centered design. It’s not just a diagram, it’s a strategic lens for understanding how real people interact with systems.
 ---
 
 ## 💡 Note
@@ -19,7 +13,6 @@ Great question—this trio of user + goals + environment is the foundation of co
 I believe great engineering demands intensity, continuous improvement and a refusal to accept limits.
 
 <img width="800" height="800" alt="Ikigajo" src="https://github.com/user-attachments/assets/e797e47d-ad0f-47ba-9d73-5eea408edfab" />
-
 
 ---
 
