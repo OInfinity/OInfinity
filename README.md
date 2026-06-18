@@ -15,8 +15,6 @@ Current Focus:
 * Research Workflows
 * AI-Assisted Analysis
 
----
-
 ## Areas of Interest
 
 * Artificial Intelligence
@@ -25,8 +23,6 @@ Current Focus:
 * Knowledge Systems
 * Decision Intelligence
 * Software Engineering
-
----
 
 ## What I Care About
 
@@ -40,8 +36,6 @@ My interests sit at the intersection of:
 * Artificial Intelligence
 
 I'm particularly interested in tools that help founders move from ideas to validated opportunities.
-
----
 
 ## Builder Mindset
 
