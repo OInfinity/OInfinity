@@ -8,6 +8,13 @@ An AI-powered system designed to help founders explore opportunities, understand
 
 The goal is to transform complex problems into actionable insights that support opportunity discovery and validation.
 
+Current Focus:
+
+* Opportunity Intelligence
+* Founder Decision Support
+* Research Workflows
+* AI-Assisted Analysis
+
 Current Capabilities:
 
 * Understanding complex problem spaces
@@ -15,13 +22,6 @@ Current Capabilities:
 * Reducing uncertainty during early-stage exploration
 * Turning information into actionable insights
 * Supporting better startup decision-making
-
-Current Focus:
-
-* Opportunity Intelligence
-* Founder Decision Support
-* Research Workflows
-* AI-Assisted Analysis
 
 ## Areas of Interest
 
