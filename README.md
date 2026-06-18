@@ -1,9 +1,20 @@
 ## Currently Building
+
 ### Founder OS
+
+*Currently in development, feel free to reach out if you'd like to learn more.*
 
 An AI-powered system designed to help founders explore opportunities, understand markets, and make better startup decisions.
 
-The goal is to transform complex problem spaces into structured insights that support opportunity discovery and validation.
+The goal is to transform complex problems into actionable insights that support opportunity discovery and validation.
+
+Current Capabilities:
+
+* Understanding complex problem spaces
+* Evaluating opportunities more systematically
+* Reducing uncertainty during early-stage exploration
+* Turning information into actionable insights
+* Supporting better startup decision-making
 
 Current Focus:
 
