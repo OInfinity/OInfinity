@@ -1,5 +1,3 @@
-<!-- Profile Banner -->
-![gradient-dark-blue-futuristic-digital-grid-background](https://github.com/user-attachments/assets/115d9efb-fbb4-4ec0-81e2-755deac87501)
 ## Currently Building
 
 ### Founder OS
