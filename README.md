@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 ![gradient-dark-blue-futuristic-digital-grid-background](https://github.com/user-attachments/assets/115d9efb-fbb4-4ec0-81e2-755deac87501)
-## 🚀 Currently Building
+## Currently Building
 
 ### Founder OS
 
@@ -17,7 +17,7 @@ Current Focus:
 
 ---
 
-## 🧠 Areas of Interest
+## Areas of Interest
 
 * Artificial Intelligence
 * Product Strategy
@@ -28,7 +28,7 @@ Current Focus:
 
 ---
 
-## 🎯 What I Care About
+## What I Care About
 
 I enjoy building systems that help people navigate uncertainty and make better decisions.
 
@@ -43,7 +43,7 @@ I'm particularly interested in tools that help founders move from ideas to valid
 
 ---
 
-## ⚡ Builder Mindset
+## Builder Mindset
 
 Technology is most valuable when it reduces complexity and increases clarity.
 
