@@ -1,5 +1,4 @@
 ## Currently Building
-
 ### Founder OS
 
 An AI-powered system designed to help founders explore opportunities, understand markets, and make better startup decisions.
