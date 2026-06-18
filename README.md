@@ -1,52 +1,52 @@
 <!-- Profile Banner -->
 ![gradient-dark-blue-futuristic-digital-grid-background](https://github.com/user-attachments/assets/115d9efb-fbb4-4ec0-81e2-755deac87501)
+## 🚀 Currently Building
 
-<h1 align="center">OInfinity Web developer</h1>
+### Founder OS
 
-<img width="786" height="299" alt="image" src="https://github.com/user-attachments/assets/1db0f68e-d098-4f4c-9f98-3e0e91e481b1" />
+An AI-powered system designed to help founders explore opportunities, understand markets, and make better startup decisions.
 
-This trio of user + goals + environment is the foundation of contextual UX research and human-centered design. It’s not just a diagram, it’s a strategic lens for understanding how real people interact with systems.
----
+The goal is to transform complex problem spaces into structured insights that support opportunity discovery and validation.
 
-## 💡 Note
+Current Focus:
 
-I believe great engineering demands intensity, continuous improvement and a refusal to accept limits.
-
-<img width="800" height="800" alt="Ikigajo" src="https://github.com/user-attachments/assets/e797e47d-ad0f-47ba-9d73-5eea408edfab" />
-
----
-
-## 🛠 Tech Stack & Tools
-
-### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### **Version Control & Collaboration**
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+* Opportunity Intelligence
+* Founder Decision Support
+* Research Workflows
+* AI-Assisted Analysis
 
 ---
-## 🌐 Connect
+
+## 🧠 Areas of Interest
+
+* Artificial Intelligence
+* Product Strategy
+* Human-Centered Design
+* Knowledge Systems
+* Decision Intelligence
+* Software Engineering
+
+---
+
+## 🎯 What I Care About
+
+I enjoy building systems that help people navigate uncertainty and make better decisions.
+
+My interests sit at the intersection of:
+
+* Software Engineering
+* Product Thinking
+* Human Behavior
+* Artificial Intelligence
+
+I'm particularly interested in tools that help founders move from ideas to validated opportunities.
+
+---
+
+## ⚡ Builder Mindset
+
+Technology is most valuable when it reduces complexity and increases clarity.
+
+I enjoy exploring how software and AI can augment human thinking, accelerate learning, and improve decision-making.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
